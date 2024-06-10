@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'bachv/asm2-oop',
-        'pretty_version' => 'dev-main',
-        'version' => 'dev-main',
-        'reference' => '6757aa1b2a752bcd6432bec1d18a442f363d9041',
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
+        'reference' => '7e6185aff1bb184399161d0c446bb284b23640cc',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -11,9 +11,9 @@
     ),
     'versions' => array(
         'bachv/asm2-oop' => array(
-            'pretty_version' => 'dev-main',
-            'version' => 'dev-main',
-            'reference' => '6757aa1b2a752bcd6432bec1d18a442f363d9041',
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'reference' => '7e6185aff1bb184399161d0c446bb284b23640cc',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
